@@ -1,0 +1,5 @@
+base\BaseTest.class
+pages\DashboardPage.class
+utils\ExtentReportManager.class
+tests\LoginTest.class
+pages\LoginPage.class
